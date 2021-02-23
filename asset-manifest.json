@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/recoil-frontend-ddd-sample/static/js/main.1c2f2d59.chunk.js",
+    "main.js.map": "/recoil-frontend-ddd-sample/static/js/main.1c2f2d59.chunk.js.map",
+    "runtime-main.js": "/recoil-frontend-ddd-sample/static/js/runtime-main.59b9fadc.js",
+    "runtime-main.js.map": "/recoil-frontend-ddd-sample/static/js/runtime-main.59b9fadc.js.map",
+    "static/js/2.c4e24ceb.chunk.js": "/recoil-frontend-ddd-sample/static/js/2.c4e24ceb.chunk.js",
+    "static/js/2.c4e24ceb.chunk.js.map": "/recoil-frontend-ddd-sample/static/js/2.c4e24ceb.chunk.js.map",
+    "static/js/3.e29aa916.chunk.js": "/recoil-frontend-ddd-sample/static/js/3.e29aa916.chunk.js",
+    "static/js/3.e29aa916.chunk.js.map": "/recoil-frontend-ddd-sample/static/js/3.e29aa916.chunk.js.map",
+    "index.html": "/recoil-frontend-ddd-sample/index.html",
+    "static/js/2.c4e24ceb.chunk.js.LICENSE.txt": "/recoil-frontend-ddd-sample/static/js/2.c4e24ceb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59b9fadc.js",
+    "static/js/2.c4e24ceb.chunk.js",
+    "static/js/main.1c2f2d59.chunk.js"
+  ]
+}
