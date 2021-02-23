@@ -1,5 +1,6 @@
 {
-  "name": "sample-recoil",
+  "name": "recoil-frontend-ddd-sample",
+  "homepage": "https://susiyaki.github.io/recoil-frontend-ddd-sample/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
